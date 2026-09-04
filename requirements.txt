@@ -1,0 +1,5 @@
+jupyter
+moviepy
+opencv-python
+torch
+transformers
