@@ -2,7 +2,7 @@
 
 A Colab notebook that summarises a video by transcribing its audio with Whisper, captioning one frame per second with a ViT-GPT2 captioner, and asking Phi-3-mini to write a summary from both, with the three model stages loaded in parallel threads.
 
-**Case study:** [Read it](https://laiba-khawar-portfolio.vercel.app/work/video-understanding-pipeline)
+**Case study:** [Read it](https://www.laibakhawar.com/work/video-understanding-pipeline)
 
 ## How it works
 
@@ -58,4 +58,4 @@ Dependencies, compared with what the notebook imports (`os`, `cv2`, `torch`, `sh
 
 ## Author
 
-[Laiba Khawar](https://github.com/LaibaKhawar) · [LinkedIn](https://www.linkedin.com/in/laiba-k-00b2b1249/)
+[Laiba Khawar](https://github.com/LaibaKhawar) · [LinkedIn](https://www.linkedin.com/in/laibakhawar/)
